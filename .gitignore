@@ -1,0 +1,21 @@
+# MODELOS ENTRENADOS
+**/modelo_*/
+**/modelo_robertuito_*/
+**/modelo_beto_*/
+**/modelo_distilbeto_*/
+**/modelo_electricidad_*/
+
+# CHECKPOINTS INTERMEDIOS DE ENTRENAMIENTO
+**/resultados_*/
+**/checkpoint-*/
+**/logs/
+.venv/
+
+# CACHÉ DE PYTHON
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+.env
